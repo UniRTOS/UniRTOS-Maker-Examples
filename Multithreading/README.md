@@ -78,3 +78,4 @@ CSDK新增Demo，固件编译和烧录请参考UniRTOS板块的**快速启动栏
 3. *qosa_task_get_current_ref* ：获取当前线程的任务句柄
 4. *qosa_task_change_priority* ：改变线程的优先级
 5. *qosa_task_get_priority* ： 获取线程的优先级
+
