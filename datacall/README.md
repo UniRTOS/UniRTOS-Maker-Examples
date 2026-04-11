@@ -18,11 +18,11 @@
 
 - USB数据线（TYPE-C），[点此购买](https://detail.tmall.com/item.htm?abbucket=11&id=712043397690&mi_id=0000UuATUkl2Swill--d8ar3-R828dAfvrmApTj3VzPdxhA&ns=1&priceTId=214783fc17750971433067563e1379&skuId=5825460040081&spm=a21n57.1.hoverItem.4&utparam={"aplus_abtest"%3A"d39c694c59ac1c7b55f24ab87fd2bb30"}&xxc=taobaoSearch)
 
-​	<img src="E:\UniRTOS-Maker-Examples\sms_send\media\数据线.png">)
+​	<img src="./media/数据线.png">
 
 - 有效SIM卡（可发短信）
 
-​	<img src="E:\UniRTOS-Maker-Examples\sms_send\media\SIM.png">
+​	<img src="./media/SIM.png">
 
 #### 软件要求
 
